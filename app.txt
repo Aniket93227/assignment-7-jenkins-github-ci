@@ -1,0 +1,2 @@
+Hello from Assignment 7!
+Jenkins and GitHub Continuous Integration is working.
