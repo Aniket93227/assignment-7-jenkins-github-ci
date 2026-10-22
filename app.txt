@@ -1,2 +1,4 @@
+
 Hello from Assignment 7!
 Jenkins and GitHub Continuous Integration is working.
+Application updated for CI testing - Version 2.
