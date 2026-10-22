@@ -20,7 +20,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Running automated tests...'
-                bat 'findstr /C:"This text does not exist" app.txt'
+                bat 'findstr /C:"Hello from Assignment 7!" app.txt'
                 echo 'All tests passed!'
             }
         }
